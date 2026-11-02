@@ -1,3 +1,5 @@
+> **已迁移 / Moved:** 此 mod 现统一维护于 [herdr-mods/vcs](https://github.com/ParadiseWitch/herdr-mods/tree/main/vcs)。请从新仓库安装和获取更新。
+
 # VCS for Herdr
 
 同时支持 **SVN 和 Git** 的 Herdr 原生版本控制面板，支持**全键盘操作**。
