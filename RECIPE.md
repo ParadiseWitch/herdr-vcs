@@ -1,6 +1,6 @@
 # VCS
 
-A native four-region version-control pane for Herdr, simultaneously supporting Git and SVN repositories with full keyboard operation. The preview is illustrative and uses invented data.
+A native four-region version-control pane for Herdr, simultaneously supporting Git and SVN repositories with full keyboard operation. The preview is a real Herdr window capture of a local demo repository with fictional code and author, not a drawn mockup.
 
 ![VCS](preview.png)
 
@@ -26,4 +26,4 @@ PowerShell 7 and hc must be installed. Binding requires a reachable core documen
 
 ## Done when
 
-herdr-app check mods/vcs passes. Multiple VCS panes in one tab and across tabs accept 1–4/hjkl only in the focused pane. Returning to a hidden tab restores keyboard operation. A menu or input keeps its keyboard. Region 4 visual selection contains actual text, mouse drag selects, and double-click selects a word. Closing test panes leaves pre-existing terminals and layout intact. Git/SVN selection, graph, file tree and diff are present. The public package contains only mod source, its documentation and synthetic preview.
+herdr-app check mods/vcs passes. Multiple VCS panes in one tab and across tabs accept 1–4/hjkl only in the focused pane. Returning to a hidden tab restores keyboard operation. A menu or input keeps its keyboard. Region 4 visual selection contains actual text, mouse drag selects, and double-click selects a word. Closing test panes leaves pre-existing terminals and layout intact. Git/SVN selection, graph, file tree and diff are present. The public package contains only mod source, its documentation and real demo screenshot.

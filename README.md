@@ -32,4 +32,4 @@ This is trusted executable mod code. It runs Git/SVN through `hc exec`, reads re
 
 `bind-panes.ps1` fills `vcsPane` metadata in VCS pane props through the core's version-checked `herdr-app` document API. It preserves pane IDs, splits, terminals and other props; original document backups stay locally under `data/vcs-pane-bindings`. The helper uses `hc connect` and never publishes these backups.
 
-The preview uses invented sample data. This package contains no personal configuration, repository histories, screenshots of private work, core documents or credentials. No analytics or upload feature is added by this mod.
+The preview is a direct, unedited `herdr-app shot` capture of the running Herdr UI, displaying a local sample repository with fictional code and author. The home directory is displayed as `~` to avoid exposing a username. This package contains no personal configuration, repository histories, screenshots of private work, core documents or credentials. No analytics or upload feature is added by this mod.
