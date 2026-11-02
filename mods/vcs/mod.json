@@ -1,0 +1,10 @@
+{
+  "place": "none",
+  "title": "VCS",
+  "overlay": {
+    "kind": "window",
+    "width": 0.86,
+    "height": 0.86,
+    "frame": "none"
+  }
+}
